@@ -5,7 +5,7 @@ Analysing marketing campaigns is crucial for understanding their effectiveness a
 ## Problem Statement
 Which marketing campaigns, customer segments, and sales channels drive the highest revenue and engagement? And how should we optimise future campaigns?
 
-### Stakeholders
+## Stakeholders
 1. Marketing Manager
 - Which campaigns worked?
 - Which failed and why?
