@@ -7,38 +7,8 @@ Which marketing campaigns, customer segments, and sales channels drive the highe
 
 ## Stakeholders
 1. Marketing Manager
-- Which campaigns worked?
-- Which failed and why?
-- Where should the budget go next?
-  
-2. Sales Team
-- Which channels convert best?
-- Who are high-value customers?
-  
-3. Leadership
-- Returns On Investment (ROI)
-- Customer Acquisition Cost (CAC)
-- Revenue Contribution
-- Growth opportunities
-
-## Business Questions
-Campaign
-1. Which campaigns have the highest conversion rate?
-2. Which campaigns generate the highest ROI?
-3. Are high-cost campaigns actually profitable?
-
-Customer
-1. Who are the high-value customers?
-2. Which segments respond best to campaigns?
-3. Do demographics influence spending?
-
-Channel
-1. What is the most effective purchase channel (store, web, catalogue)?
-2. Do multi-channel customers spend more?
-
-Revenue Drivers
-1. Which products generate the most revenue?
-2. Are discounts increasing or reducing profitability?
+2. Head of Sales  
+3. Organisation Leadership
 
 ## Tools & Technologies
 - Power BI – Data visualisation and dashboarding
@@ -47,11 +17,11 @@ Revenue Drivers
 
 ## Key Metrics (DAX Measures)
 1. Total Revenue
-2. Total Customers
-3. Average Customer Spend
-4. Conversion Rate
-5. Customer Acquisition Cost (CAC)
-6. Return on Investment (ROI)
+3. Total Customers
+4. Average Customer Spend
+5. Conversion Rate
+6. Customer Acquisition Cost (CAC)
+7. Return on Investment (ROI)
 
 ## Exploratory Data Analysis (EDA)
 1. Customer Demographics
@@ -62,7 +32,6 @@ Revenue Drivers
 2. Campaign Analysis
 - Acceptance rate per campaign
 - Cost vs revenue
-- Campaign fatigue (are later campaigns less effective?)
 
 3. Channel Analysis
 - Revenue by channel
@@ -73,3 +42,30 @@ Revenue Drivers
 - Products driving repeat purchases
 
 
+## Business Questions
+#### Campaign
+1. Which campaigns have the highest conversion rates?
+
+2. Which campaigns generate the highest ROI?
+
+3. Are high-cost campaigns actually profitable?
+
+#### Customer
+1. Who are the high-value customers?
+
+2. Which segments respond best to campaigns?
+
+3. Do demographics influence spending?
+
+#### Channel
+1. What is the most effective purchase channel (store, web, catalogue)?
+
+2. Do multi-channel customers spend more?
+
+#### Revenue 
+1. Which products generate the most revenue?
+
+2. Are discounts increasing or reducing profitability?
+
+
+Recommendations
