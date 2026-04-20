@@ -45,21 +45,31 @@ Revenue Drivers
 2. Power Query – Data cleaning and transformation
 3. DAX – KPI calculations and measures
 
+## Key Metrics (DAX Measures)
+1. Total Revenue
+2. Total Customers
+3. Average Customer Spend
+4. Conversion Rate
+5. Customer Acquisition Cost (CAC)
+6. Return on Investment (ROI)
+
 ## Exploratory Data Analysis (EDA)
 1. Customer Demographics
-*Income vs Education
-*Age vs Spending
-*Marital Status vs Product Preference
+- Income vs Education
+- Age vs Spending
+- Marital Status vs Product Preference
 
 2. Campaign Analysis
-*Acceptance rate per campaign
-*Cost vs revenue
-*Campaign fatigue (are later campaigns less effective?)
+- Acceptance rate per campaign
+- Cost vs revenue
+- Campaign fatigue (are later campaigns less effective?)
 
 3. Channel Analysis
-*Revenue by channel
-*Conversion by channel
+- Revenue by channel
+- Conversion by channel
 
 4. Product Analysis
-*Top-selling products
-*Products driving repeat purchases
+- Top-selling products
+- Products driving repeat purchases
+
+
