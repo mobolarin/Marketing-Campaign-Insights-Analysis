@@ -5,7 +5,7 @@ Analysing marketing campaigns is crucial for understanding their effectiveness a
 ## Problem Statement
 Which marketing campaigns, customer segments, and sales channels drive the highest revenue and engagement? And how should we optimise future campaigns?
 
-Stakeholders
+### Stakeholders
 1. Marketing Manager
 - Which campaigns worked?
 - Which failed and why?
@@ -41,9 +41,9 @@ Revenue Drivers
 2. Are discounts increasing or reducing profitability?
 
 ## Tools & Technologies
-1. Power BI – Data visualisation and dashboarding
-2. Power Query – Data cleaning and transformation
-3. DAX – KPI calculations and measures
+- Power BI – Data visualisation and dashboarding
+- Power Query – Data cleaning and transformation
+- DAX – KPI calculations and measures
 
 ## Key Metrics (DAX Measures)
 1. Total Revenue
